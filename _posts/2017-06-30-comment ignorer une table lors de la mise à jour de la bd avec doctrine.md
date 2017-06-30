@@ -6,3 +6,5 @@ Dans cet article j'explique rapidement comment ignorer une table lors de la mise
 
 ## Pourquoi ignorer une table?
 
+On peut avoir besoin d'ignorer des tables pour plusieurs raisons, 
+
