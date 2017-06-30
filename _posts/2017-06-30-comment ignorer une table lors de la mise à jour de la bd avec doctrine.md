@@ -1,4 +1,8 @@
 ---
 layout: post
-title: Ignorer une table lors de la mise à jour de la BD avec doctrine
+title: Ignorer une table lors de la mise à jour de la BD lorsqu'on utilise doctrine avec Symfony 3
 ---
+Dans cet article j'explique rapidement comment ignorer une table lors de la mise à jour de la BD lorsqu'on utilise doctrine avec Symfony 3.
+
+H1 Pourquoi ignorer une table?
+
