@@ -4,5 +4,5 @@ title: Ignorer une table lors de la mise à jour de la BD lorsqu'on utilise doct
 ---
 Dans cet article j'explique rapidement comment ignorer une table lors de la mise à jour de la BD lorsqu'on utilise doctrine avec Symfony 3.
 
-Hearder 2 Pourquoi ignorer une table?
+Header 2 Pourquoi ignorer une table?
 
